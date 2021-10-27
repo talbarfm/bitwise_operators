@@ -1,0 +1,25 @@
+#Task One 
+CHECK if the n bit of num is set
+#Template Code 
+
+#include <stdio.h>
+
+int main()
+{
+    int num, n;
+
+    /* Input number from user */
+    printf("Enter any number: ");
+    scanf("%d", &num);
+
+    /* Input bit position you want to check */
+    printf("Enter nth bit to check (0-31): ");
+    scanf("%d", &n);
+
+//YOUR CODE HERE 
+//CHECK if the n bit of num is set
+
+
+    return 0;
+}
+---
